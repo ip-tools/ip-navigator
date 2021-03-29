@@ -21,7 +21,7 @@ requires = [
     # Pyramid core
     'pyramid==1.9.1',
     'pyramid_debugtoolbar==4.3',    # 4.4
-    'Pygments==2.2.0',
+    'Pygments==2.7.4',
     'pyramid_mako==1.0.2',
     'Jinja2==2.10.1',
     'Akhet==2.0',
